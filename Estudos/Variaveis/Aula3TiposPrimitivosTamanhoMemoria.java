@@ -1,6 +1,4 @@
-
-
-public class Aula3_TamanhoMemoria {
+public class Aula3TiposPrimitivosTamanhoMemoria {
     public static void main (String[] args) {
        // int, double, floar, char, byte, short, long, boolean
         int idade = 10;
