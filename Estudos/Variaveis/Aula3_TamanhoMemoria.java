@@ -1,6 +1,6 @@
 
 
-public class Aula_TamanhoMemoria {
+public class Aula3_TamanhoMemoria {
     public static void main (String[] args) {
        // int, double, floar, char, byte, short, long, boolean
         int idade = 10;
