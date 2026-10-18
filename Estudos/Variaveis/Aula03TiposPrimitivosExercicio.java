@@ -16,7 +16,5 @@ public class Aula03TiposPrimitivosExercicio {
 
     System.out.println("Eu "+nome+", morando no "+endereço+", confirmo que recebi o salário de "+salario+", na data "+dataRecebimento+"");
 
-
-
     }
 }
