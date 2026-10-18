@@ -1,4 +1,4 @@
-public class Tipos{
+public class Aula02TiposVariaveis{
     public static void main(String[] args) {
 
         // Tipos de Vareáveis & Tipos Primitivos
